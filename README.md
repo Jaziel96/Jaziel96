@@ -1,6 +1,6 @@
 ### Hola 👋, Hola Soy Jaziel
 #### Soy Full Stack Software Development
-![Soy Full Stack Software Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Soy Full Stack Software Development](https://media.licdn.com/dms/image/D5616AQF_T_iZ1lvYWQ/profile-displaybackgroundimage-shrink_350_1400/0/1672434760242?e=1678924800&v=beta&t=k3MB6FkNRmsRlADnR-f6hY9_3zu7iMKqQRKxgbPirq8)
 
 Fullstack Developer, apasionado por la tecnologia y el desarrollo con experiencia tanto en proyectos individuales como en cooperativos, siempre buscando nuevos retos y mejorar mi stack actual graduado en 4Geeks Academy un Bootcamp de Florida, Miami.
 
