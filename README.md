@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hola 👋, Hola Soy Jaziel
+#### Soy Full Stack Software Development
+![Soy Full Stack Software Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Jaziel96/Jaziel96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer, apasionado por la tecnologia y el desarrollo con experiencia tanto en proyectos individuales como en cooperativos, siempre buscando nuevos retos y mejorar mi stack actual graduado en 4Geeks Academy un Bootcamp de Florida, Miami.
 
-Here are some ideas to get you started:
+Amplios conocimientos en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5, CSS3, Javascript, GIT, Bootstrap, React, ApiRest
+
+Conocimientos básicos :
+
+Python, Databases (MySQL, DataModel), JEST.
+
+Con facilidad de aprendizaje, adaptabilidad, análisis, observación y lógica de programación, ayudando a que mi proceso de adquisición de nuevas habilidades sea más rápido y efectivo.
+
+
+Habilidades:  REACT / JS / HTML / CSS / PYTHON 
+
+- 🔭 Estoy trabajando en Pagina de ecommerce 
+- 🌱 Estoy aprendiendo JS y REACT 
+- 👯 Quiero colaborar con Empresa donde utilicen JS y REACT 
+- 📫 Cómo contactarme: jazcov96@hotmail.com Cel:3121157358 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jaziel96 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/jaziel-isai-anguiano-mariz-7014931a0/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jaziel96 )](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaziel96 )](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaziel96 &show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jaziel96 )  
+
+![GitHub metrics](https://metrics.lecoq.io/Jaziel96 )  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Jaziel96 )  
+
