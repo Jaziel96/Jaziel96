@@ -29,11 +29,4 @@ Habilidades:  REACT / JS / HTML / CSS / PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaziel96 )](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaziel96 &show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jaziel96 )  
-
-![GitHub metrics](https://metrics.lecoq.io/Jaziel96 )  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Jaziel96 )  
 
